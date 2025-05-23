@@ -74,9 +74,9 @@ nav, ul, li {
 }
 .document1{
 	size:16px;
-	font-weight:400;
 	margin-top:20px;
 	display:inline-block;
+	font-family: "BPG Square", sans-serif;
 
 }
 #d27 {
@@ -109,12 +109,11 @@ nav, ul, li {
 #text2 {
 	display:inline-block;
 	width:778px;
-	font-weight:400;
 	size:16px;
 	color:#4E6FAE;
 	vertical-align:top;
 	margin-left:66px;
-
+	font-family: "BPG Nostalgia", sans-serif;
 }
 #d28 {
 	width:50px;
@@ -133,6 +132,7 @@ nav, ul, li {
 	margin-top:32px;
 	width:1021px;
 	height:148px;
+	font-family: "BPG Square", sans-serif;
 }
 #line {
 	width:2px;
