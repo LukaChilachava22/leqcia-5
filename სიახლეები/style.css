@@ -1,0 +1,138 @@
+*{
+	margin:0;
+	padding:0;
+}
+#html {
+	display:inline-block;
+	color:#30CBC2;
+	font-size: 48px;
+    font-weight: 700;
+}
+#active{
+	color:#4E6FAE;
+}
+
+
+body {
+    padding-top: 54px;
+    padding-left:52px;
+}
+a {
+    text-decoration: none;
+    color: #8D81FF;
+    font-size: 26px;
+    font-weight: 700;
+    margin-left: 50px;
+    display:inline-block;
+    vertical-align: text-bottom;
+}
+nav, ul, li {
+	display:inline-block;
+}
+#html1 {
+  display:block;
+  margin:auto;
+  margin-top:97px;
+
+}
+#line {
+	width:2px;
+	color:#5012D5;
+	display:inline-block;
+	background-color:#5012D5;
+	height:24px;
+	margin:0 18px 0 18px;
+	margin-top:120px;
+}
+#news {
+	font-weight:700;
+	size:26px;
+	margin-top:120px;
+	margin-left:194px;
+	color:#4E6FAE;
+	vertical-align:super;
+
+}
+#news1 {
+  font-weight:400;
+  size:26px;
+  color:#4E6FAE;
+  margin-top:120px;
+  vertical-align:super;
+}
+/*#div1 {
+ width:500px;
+ height:192px;
+ background-color:#E7E7E7;
+ margin-left:194px;
+ margin-top:26px;
+ box-sizing:border-box;
+}
+#p1 {
+ padding:21px 170px 147px 23px;
+ size:20px;
+ color:#3F4145;
+ font-weight:400;
+ display:block;
+}
+#fimage {
+	width:77px;
+	height:77px;
+	display:inline-block;
+
+}
+*/
+.otxkutxedi {
+    
+    width: 500px;
+    height: 200px;
+    background-color: #E7E7E7;
+    display: inline-block;
+    margin-bottom: 100px;
+    box-sizing: border-box;
+    padding: 22px;
+    margin-left: 197px;
+    margin-top:26px;
+}
+h4 {
+    font-size: 20px;
+    font-weight: 400;
+    color: #3F4145;
+    margin-bottom: 20px;
+}
+p {
+    color: #7E8898;
+    display: inline-block;
+    vertical-align: top;
+    width: 330px;
+    margin-left: 30px;
+}
+.otxkutxedi1 {
+    
+    width: 500px;
+    height: 200px;
+    background-color: #E7E7E7;
+    display: inline-block;
+    margin-bottom: 100px;
+    box-sizing: border-box;
+    padding: 22px;
+    margin-left: 52px;
+    margin-top:26px;
+}
+
+
+
+#line1{
+	width:2px;
+	color:#5012D5;
+	display:inline-block;
+	background-color:#5012D5;
+	height:50px;
+	margin:0 41px 0 41px;
+}
+#yt {
+	width:71px;
+}
+#fc {
+	width:50px;
+}

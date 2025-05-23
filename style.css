@@ -1,0 +1,144 @@
+*{
+	margin:0;
+	padding:0;
+}
+#yt {
+	width:71px;
+}
+#fc{
+	width:50px;
+}
+#html {
+	display:inline-block;
+	color:#30CBC2;
+	font-size: 48px;
+    font-weight: 700;
+}
+#active{
+	color:#4E6FAE;
+}
+
+
+body {
+    padding-top: 54px;
+    padding-left:52px;
+}
+a {
+    text-decoration: none;
+    color: #8D81FF;
+    font-size: 26px;
+    font-weight: 700;
+    margin-left: 50px;
+    display:inline-block;
+    vertical-align: text-bottom;
+}
+nav, ul, li {
+	display:inline-block;
+}
+#d26 {
+	width:50px;
+	height:50px;
+	background-color:#5012D5;
+	font-size:24px;
+	font-weight: 400;
+	padding:11px;
+	margin-top:44px;
+	color:#84FF81;
+	box-sizing:border-box;
+}
+#may {
+	margin-top:18px;
+	font-weight:400;
+	size: 24px;
+	color:#8D81FF;
+}
+#veb{
+	size:20px;
+	font-weight:700;
+	color:#4E6FAE;
+	margin-top:8px;
+}
+#ragaca{
+	margin-top:13px;
+	width:447px;
+	height:280px;
+	display:inline-block;
+}
+#text1{
+	display:inline-block;
+	vertical-align:top;
+	width:778px;
+	height:281px;
+	margin-left:66px;
+	color:#4E6FAE;
+}
+.document1{
+	size:16px;
+	font-weight:400;
+	margin-top:20px;
+	display:inline-block;
+
+}
+#d27 {
+	width:50px;
+	height:50px;
+	background-color:#5012D5;
+	font-size:24px;
+	font-weight: 400;
+	padding:11px;
+	margin-top:155px;
+	color:#84FF81;
+	box-sizing:border-box;
+}
+#may1 {
+	margin-top:14px;
+	font-weight:400;
+	size: 24px;
+	color:#8D81FF;
+}
+#developers {
+	size:20px;
+	font-weight:700;
+	margin-top:14px;
+	color:#4E6FAE;
+}
+#ragaca2 {
+	margin-top:14px;
+	display:inline-block;
+}
+#text2 {
+	display:inline-block;
+	width:778px;
+	font-weight:400;
+	size:16px;
+	color:#4E6FAE;
+	vertical-align:top;
+	margin-left:66px;
+
+}
+#d28 {
+	width:50px;
+	height:50px;
+	background-color:#5012D5;
+	font-size:24px;
+	font-weight: 400;
+	padding:11px;
+	margin-top:155px;
+	color:#84FF81;
+	box-sizing:border-box;
+}
+#text3 {
+	color:#4E6FAE;
+	size:16px;
+	margin-top:32px;
+	width:1021px;
+	height:148px;
+}
+#line {
+	width:2px;
+	color:#5012D5;
+	display:inline-block;
+	background-color:#5012D5;
+	height:50px;
+	margin:0 41px 0 41px;
+}

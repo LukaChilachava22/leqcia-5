@@ -1,0 +1,86 @@
+
+#inf {
+	padding-bottom:15px;
+	padding-top:93px;
+	padding-left:162px;
+	font-weight:700;
+	size:36px;
+	color:#4E6FAE;
+	display:inline-block;
+}
+#misamarti {
+	padding-top:93px;
+	padding-left:162px;
+	padding-bottom:23px;
+    color:#7E8898;
+    font-weight:400;
+    size:20px;
+}
+#adgili {
+	padding-bottom:23px;
+    font-weight:700;
+	size:36px;
+	color:#4E6FAE;
+}
+*{
+	margin:0;
+	padding:0;
+}
+#yt {
+	width:71px;
+	margin-top:70px;
+}
+#fc{
+	width:50px;
+	margin-top:70px;
+}
+#html {
+	display:inline-block;
+	color:#30CBC2;
+	font-size: 48px;
+    font-weight: 700;
+}
+#active{
+	color:#4E6FAE;
+}
+
+
+body {
+    padding-top: 54px;
+    padding-left:52px;
+}
+a {
+    text-decoration: none;
+    color: #8D81FF;
+    font-size: 26px;
+    font-weight: 700;
+    margin-left: 50px;
+    display:inline-block;
+    vertical-align: text-bottom;
+}
+nav, ul, li {
+	display:inline-block;
+}
+#line1{
+	width:2px;
+	color:#5012D5;
+	display:inline-block;
+	background-color:#5012D5;
+	height:50px;
+	margin:0 41px 0 41px;
+}
+#divmain {
+	box-sizing:border-box;
+	background-color:#E7E7E7;
+	width:1660px;
+	height:735px;
+	margin-top:43px;
+}
+#map1 {
+	padding:93px 40px 113px 676px;
+	display: inline-block;
+}
+.inform{
+	display:inline-block;
+	padding-bottom:15px;
+}
